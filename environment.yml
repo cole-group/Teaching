@@ -3,7 +3,7 @@ name: test
 channels:
     - conda-forge
     - omnia
-    - michellab biosimspace
+    - biosimspace
     - defaults
 dependencies:
     - openforcefield
