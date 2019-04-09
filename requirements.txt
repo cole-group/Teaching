@@ -3,5 +3,3 @@ cython
 numpy
 matplotlib==2.2.3
 numba
-conda-forge
-omnia
