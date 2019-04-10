@@ -5,4 +5,4 @@ channels:
     - omnia
     - defaults
 dependencies:
-    - michellab biosimspace
+    - openforcefield
