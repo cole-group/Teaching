@@ -3,6 +3,7 @@ name: test
 channels:
     - conda-forge
     - omnia
+    - nglview
     - defaults
 dependencies:
     - openforcefield
