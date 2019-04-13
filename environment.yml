@@ -4,5 +4,7 @@ channels:
     - omnia
     - defaults
 dependencies:
+    - mdtraj
+    - pytraj
     - nglview
     - openforcefield
