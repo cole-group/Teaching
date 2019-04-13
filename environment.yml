@@ -5,6 +5,5 @@ channels:
     - defaults
 dependencies:
     - mdtraj
-    - pytraj
     - nglview
     - openforcefield
