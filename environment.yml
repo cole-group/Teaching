@@ -4,6 +4,4 @@ channels:
     - omnia
     - defaults
 dependencies:
-    - michellab/label/dev==biosimspace
-    - pip:
-      - pygtail pypdb
+    - nglview
