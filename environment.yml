@@ -1,4 +1,4 @@
-name: test
+name: test3
 channels:
     - anaconda
     - bioconda
