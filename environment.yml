@@ -1,9 +1,17 @@
 name: test
 channels:
+    - anaconda
+    - bioconda
     - conda-forge
     - omnia
     - defaults
 dependencies:
+    - python=3.6
+    - nomkl
+    - nglview=1.0
+    - ipywidgets==7.0.0
+    - widgetsnbextension==3.0.0
+    - ipykernel=4.6
+    - ambertools=17
     - mdtraj
-    - nglview
     - openforcefield
