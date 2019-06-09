@@ -4,7 +4,6 @@ channels:
     - bioconda
     - conda-forge
     - omnia
-    - defaults
 dependencies:
     - python=3.6
     - nomkl
