@@ -1,5 +1,6 @@
 channels:
 - conda-forge
+- omnia
 dependencies:
 - jupyterlab
 - python
@@ -9,6 +10,8 @@ dependencies:
 - notebook
 - ipykernel
 - nglview=2.1
+- mdtraj
+- openforcefield
 - pip:
     - pytraj
     - sidecar
