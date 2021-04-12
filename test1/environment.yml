@@ -1,9 +1,0 @@
-# Environment file for Jupyter notebook examples
-name: test
-channels:
-    - conda-forge
-    - omnia
-    - nglview
-    - defaults
-dependencies:
-    - openforcefield
