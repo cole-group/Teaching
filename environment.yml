@@ -3,3 +3,4 @@ channels:
 dependencies:
 - jupyterlab
 - python
+- rdkit
